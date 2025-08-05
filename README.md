@@ -1,7 +1,13 @@
 <h1 align="center">📝 Todo App</h1>
+
+### 🔓 Home Page
+
 <p align="center">
   <img src="./todoPreview1.jpg" alt=" Preview" width="700"/>
 </p>
+
+### 📋 Dashboard Page
+
 <p align="center">
   <img src="./todoPreview2.jpg" alt=" Preview" width="700"/>
 </p>
@@ -44,18 +50,6 @@ Simplify your daily task planning with this intuitive and secure task manager.
 
 > ✅ Hosted on **Vercel**  
 👉 [Click here to view the live app](https://your-vercel-app.vercel.app)
-
----
-
-## 📸 Screenshots
-
-### 🔓 Home Page
-
-![Home Page](./public/Home.png)
-
-### 📋 Dashboard Page
-
-![Dashboard](./public/Dashboard.png)
 
 ---
 
