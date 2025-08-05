@@ -130,10 +130,3 @@ DELETE	/tasks/:id	Delete task
 
 
 
-
-
-
-Ask ChatGPT
-
-
-
