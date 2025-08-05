@@ -1,12 +1,12 @@
 <h1 align="center">📝 Todo App</h1>
 
-### 🔓 Home Page
+###
 
 <p align="center">
   <img src="./todoPreview1.jpg" alt=" Preview" width="700"/>
 </p>
 
-### 📋 Dashboard Page
+### 
 
 <p align="center">
   <img src="./todoPreview2.jpg" alt=" Preview" width="700"/>
