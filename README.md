@@ -1,6 +1,9 @@
 <h1 align="center">📝 Todo App</h1>
 <p align="center">
-  <img src="./jd.png" alt="CSphere Preview" width="700"/>
+  <img src="./todoPreview1.jpg.png" alt="CSphere Preview" width="700"/>
+</p>
+<p align="center">
+  <img src="./todoPreview2.jpg.png" alt="CSphere Preview" width="700"/>
 </p>
 
 <p align="center"> 
@@ -67,7 +70,7 @@ Simplify your daily task planning with this intuitive and secure task manager.
 ---
 
 ## 📁 Folder Structure
-
+```
 client/
 ├── public/
 │ ├── Home.png
@@ -83,7 +86,7 @@ client/
 │ │ └── index.js
 │ ├── App.jsx
 │ └── main.jsx
-
+```
 ---
 
 ## 🧑‍💻 Getting Started
@@ -100,52 +103,36 @@ client/
 cd server
 npm install
 npm run dev
+```
 Create .env with:
 ```
-
-ini
-Copy code
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret
 PORT=5000
+```
 💻 Frontend Setup
-bash
-Copy code
+```
 cd client
 npm install
 npm run dev
+```
 🗃️ API Endpoints
 Method	Endpoint	Description
+```
 POST	/auth/signup	Register user
 POST	/auth/login	Login user
 GET	/tasks	Get all tasks
 POST	/tasks	Create new task
 PUT	/tasks/:id	Update task
 DELETE	/tasks/:id	Delete task
+```
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🙌 Acknowledgements
-Built with ❤️ using MERN stack.
-Hosted on Vercel.
-
-yaml
-Copy code
-
----
-
-### ✅ What You Need to Do
-
-1. Replace `https://your-vercel-app.vercel.app` with your actual deployed Vercel link.  
-2. Add your screenshots to `public/Home.png` and `public/Dashboard.png` or update the paths accordingly.  
-3. (Optional) Add a `LICENSE` file if you want to open-source it.
-
----
-
-Let me know if you also want a Markdown badge section or contribution guidelines!
-
-
+👤 Contributors
+<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Full-Stack Developer</sub> </td> </tr> </table>
+📬 Contact
+<br>
+📧 Email: rdanishrizwan@example.com
+<br>
 
 
 
