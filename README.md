@@ -1,9 +1,9 @@
 <h1 align="center">📝 Todo App</h1>
 <p align="center">
-  <img src="./todoPreview1.jpg.png" alt="CSphere Preview" width="700"/>
+  <img src="./todoPreview1.jpg" alt=" Preview" width="700"/>
 </p>
 <p align="center">
-  <img src="./todoPreview2.jpg.png" alt="CSphere Preview" width="700"/>
+  <img src="./todoPreview2.jpg" alt=" Preview" width="700"/>
 </p>
 
 <p align="center"> 
