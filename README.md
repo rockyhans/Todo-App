@@ -1,6 +1,9 @@
 <h1 align="center">📝 Todo App</h1>
-
 <p align="center">
+  <img src="./jd.png" alt="CSphere Preview" width="700"/>
+</p>
+
+<p align="center"> 
   A powerful full-stack task management application with secure authentication and task handling capabilities.
 </p>
 
