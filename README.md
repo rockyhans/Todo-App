@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-vercel-app.vercel.app" target="_blank">
+  <a href="https://todo-app-one-lyart-19.vercel.app/" target="_blank">
     🔗 Live Demo
   </a>
 </p>
@@ -55,7 +55,7 @@ Simplify your daily task planning with this intuitive and secure task manager.
 ## 🚀 Live Demo
 
 > ✅ Hosted on **Vercel**  
-👉 [Click here to view the live app](https://your-vercel-app.vercel.app)
+👉 [Click here to view the live app](https://todo-app-one-lyart-19.vercel.app/)
 
 ---
 
